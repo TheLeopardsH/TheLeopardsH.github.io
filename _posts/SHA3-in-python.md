@@ -9,7 +9,7 @@ tags:
 - Hash Functions
 - Keccak
 - Cryptography
-description: ''Python 3 code for SHA-3 cryptographic algorithm '
+description: 'Python 3 code for SHA-3 cryptographic algorithm'
 categories:
 - Cryptography
 ---
