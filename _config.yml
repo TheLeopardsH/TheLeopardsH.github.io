@@ -1,7 +1,7 @@
 # Site settings
 title: Salman Akhtar
 description: "A blog about Computer Architecture,Digital system Design,Cryptography and Binary Exploitation"
-baseurl: "/" # for test: remove string '/space-jekyll-template' to ''
+baseurl: ' ' # for test: remove string '/space-jekyll-template' to ''
 url: "http://Theleopardsh.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
 # User settings
